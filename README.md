@@ -1,6 +1,7 @@
 # _Roborunner.JO_
 Made by Autobots
-This is a project Jacob Waren, Prime Rodriguez III, Briana Sepulveda and Abhishek Das.
+Hello! welcome to the robborunner project! This is a project brought you by 
+- Jacob Waren, Prime Rodriguez III, Briana Sepulveda and Abhishek Das.
 # _What is it?_
 This Project is a controller controlled bird which moves like an RC car which speaks and acts like a roadrunner in the spirit of Roadrunners attending this university
 # _What are the parts we used?_
